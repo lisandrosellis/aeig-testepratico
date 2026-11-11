@@ -87,13 +87,13 @@ O evento é registrado em tabela com `id_evento` como chave primária. Reenvios 
 
 ## Uso de IA
 
-A IA foi utilizada como apoio à estruturação do projeto, revisão da lógica de validação e elaboração da documentação. As decisões e o funcionamento do código devem ser revisados e compreendidos pelo candidato antes da apresentação.
+A IA foi utilizada como apoio à estruturação do projeto, revisão da lógica de validação e elaboração da documentação.
 
 ## Parte B
 
 A análise dos defeitos, a função corrigida e os quatro valores pedidos estão em [`BUGS.md`](./BUGS.md).
 
-## Roteiro sugerido para apresentação
+## Roteiro para apresentação
 
 1. Iniciar a API e mostrar `GET /health`.
 2. Cadastrar um associado e demonstrar a validação de CPF.
